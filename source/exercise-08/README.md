@@ -1,6 +1,6 @@
 ## Exercise Round 8
 
-For this exercise round, you should return a report with written answers to the questions below. 
+For this exercise round, you should return a pdf file containing written answers to the questions below. 
 
 ### Exercise 1. Face tracking example using KLT tracker
 This exercise is based on the python face tracking demo ```Exercise8.ipynb```. 
